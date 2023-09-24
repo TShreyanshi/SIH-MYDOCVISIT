@@ -1,1 +1,1 @@
-# SIH-Aplha
+# SIH-Alpha
